@@ -1,0 +1,4 @@
+rootProject.name = "javarefresh"
+include ':app'
+include ':lib'
+include ':lib2'
